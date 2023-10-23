@@ -2,7 +2,7 @@
 
 ### Education
 Ms. Informatics Eng._ Madeira University(UMa)
-Data Analyst _ Udacity
+/n Data Analyst _ Udacity
 
 ### Projects
 Weather Trends
