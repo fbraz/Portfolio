@@ -15,6 +15,19 @@ Data Analyst - Udacity
 
 **-Criteria:** Conversion rate 
 
+**-Data collected:** 
+
+          1.user_id
+          
+          2.time_stamp
+          
+          3.group(control, treatment)
+          
+          4.landing_page(old, new)
+          
+          5.converted(0,1)
+          
+
 **-Approaches:**
 
           -Hypothesis Testing
@@ -23,5 +36,9 @@ Data Analyst - Udacity
   
 **-Conclusions:**
 
-The null hypothesis is that the old page is at least as good as the new. Both with Hypothesis testing and Logistic Regression, we failed to reject the null hypothesis. In practical terms it means the old page is at least as good as the new page in terms of conversions.
+Given that the null hypothesis is "the old page is at least as good as the new". We've come to the conclusion that both with Hypothesis testing and Logistic Regression, we fail to reject the null hypothesis. 
+
+In practical terms it means the old page is at least as good as the new page in conversions. 
+
+So the company can decide to keep the old page or run the A/B test for a longer period of time. 
 
