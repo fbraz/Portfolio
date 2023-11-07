@@ -7,7 +7,12 @@ Data Analyst - Udacity
 
 ## Projects
 
-**Wrangling data**
+**Bike Sharing System - Data Analysis**
+
+**-Goal:** Identify the users of this bike sharing system, their demographics and their habits. Create a visual report and data story to convey the findings
+
+
+**Wrangling data from different sources**
 
 [wrangle_act.ipynb](https://github.com/fbraz/DataScienceProj3_WranglingData.git)
 
