@@ -12,6 +12,9 @@ Data Analyst - Udacity
 **-Goal:** Identify the users of this bike sharing system, their demographics and their habits. Create a visual report and data story to convey the findings
 
 
+
+
+
 **Wrangling data from different sources**
 
 [wrangle_act.ipynb](https://github.com/fbraz/DataScienceProj3_WranglingData.git)
@@ -19,6 +22,9 @@ Data Analyst - Udacity
 **-Goal:** Gather data from different sources, clean, analize and visualize. The interesting part was to gather data programmatically through the Twitter API!
 
 [Analyze_ab_test_results_notebook.ipynb]
+
+
+
 
 
 **Analyze A/B test for an ecommerce website**
