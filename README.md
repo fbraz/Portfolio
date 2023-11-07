@@ -8,7 +8,7 @@ Data Analyst - Udacity
 ## Projects
 
 **Wrangling data**
-[wrangle_Data.ipynb](wrangle_act.ipynb)
+[wrangle_act.ipynb](https://github.com/fbraz/DataScienceProj3_WranglingData.git)
 
 **-Goal:** Gather data from different sources, clean, analize and visualize. The interesting part was to gather data programmatically through the Twitter API!
 
