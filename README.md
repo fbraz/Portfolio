@@ -21,8 +21,6 @@ Data Analyst - Udacity
 
 **-Goal:** Gather data from different sources, clean, analize and visualize. The interesting part was to gather data programmatically through the Twitter API!
 
-[Analyze_ab_test_results_notebook.ipynb]
-
 
 
 
