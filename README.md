@@ -7,6 +7,14 @@ Data Analyst - Udacity
 
 ## Projects
 
+**Wrangling data**
+[wrangle_Data.ipynb](wrangle_act.ipynb)
+
+**-Goal:** Gather data from different sources, clean, analize and visualize. The interesting part was to gather data programmatically through the Twitter API!
+
+[Analyze_ab_test_results_notebook.ipynb]
+
+
 **Analyze A/B test for an ecommerce website**
 
 [Analyze_ab_test_results_notebook.ipynb](https://github.com/fbraz/Data-Science-projects/blob/2d12ce84940e9d937db29a0cbed21728d0d439a9/Analyze_ab_test_results_notebook.ipynb)
