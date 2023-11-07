@@ -9,6 +9,9 @@ Data Analyst - Udacity
 
 **Bike Sharing System - Data Analysis**
 
+[Part_II_slide_deck_FordGoBikeSharingSystem.ipynb](https://github.com/fbraz/DataScienceProj4-BikeSharingSystemAnalysis/blob/7ffb0bd239e53b4552c91529cbc29e72cbb27e97/Part_II_slide_deck_FordGoBikeSharingSystem.ipynb)
+
+
 **-Goal:** Identify the users of this bike sharing system, their demographics and their habits. Create a visual report and data story to convey the findings
 
 
