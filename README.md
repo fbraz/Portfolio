@@ -1,5 +1,7 @@
 # Data Analyst 
 
+It's not all about solving the mysteries that data hides a portfolio is about showing the projects in the most interesting and effective way. Here I'm exploring and learning about github pages as a medium to present a portfolio. 
+
 #### Technical skills: Phython, Jupyter Notebooks
 
 ## Education
